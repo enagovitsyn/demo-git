@@ -1,0 +1,1 @@
+SELECT "Hello. It's the first sql script"
